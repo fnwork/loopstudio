@@ -1,7 +1,7 @@
 # Loopstudios Landing page
-This is a responsive Frontend Mentor landing page challenge with an emphasis on HTML and CSS skills. Javascript was also used for navigation in mobile mode.
+This is a responsive Frontend Mentor landing page challenge using HTML, CSS, and Javascript for navigation in mobile mode.
 
-The website comes in desktop and mobile screen size
+The layout for the website is desktop and mobile.
 
 Desktop Design:
 
